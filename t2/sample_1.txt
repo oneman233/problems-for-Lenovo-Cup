@@ -1,0 +1,14 @@
+3
+2 2 2
+BA
+BB
+AA
+BA
+1 2 4
+AA
+BB
+CB
+BB
+1 2 2
+AB
+CD
