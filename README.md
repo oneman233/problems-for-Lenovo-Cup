@@ -1,6 +1,6 @@
 这是我为上海理工大学第二届“联想杯”全国程序设计邀请赛所出的两道算法题目的标程、测试数据、数据生成器、中英文题面和题解
 
-你可以在牛客网找到[这场比赛](https://ac.nowcoder.com/acm/contest/17574)
+你可以在牛客网找到[这场比赛](https://ac.nowcoder.com/acm/contest/17574)，`2021-lenovo-solution.pdf` 是这场比赛所有问题的题解
 
 # t1
 
